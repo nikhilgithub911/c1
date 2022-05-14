@@ -21,7 +21,7 @@ void  halfPyramidPattern5(int n){
 int main()
 {
     int n;
-    cout<<"enter the no. of rows"<<endl;
+    cout<<"enter the total  no. of required rows"<<endl;
     cin>>n;
     halfPyramidPattern5(n);
 }
